@@ -1,0 +1,1 @@
+The game “Liar” (or “Liar Game”) is a popular party game. Players draw topics at random and take turns telling stories. The other players’ task is to vote and figure out who is making things up. The winner is the person who bluffs the best and exposes the most opponents.
