@@ -1,0 +1,23 @@
+{
+  "name": "shot-game",
+  "version": "1.0.0",
+  "description": "shot-game | play with family | ex. creta all-exclusive",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "node server.js",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd client && npm run build",
+    "start": "node server.js"
+  },
+  "keywords": ["SHOT", "GAME"],
+  "author": "rafal druzba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "typ": "wyzwanie", "kategoria": "angielski", "tresc": "Idź do hotelowego baru i zamów kolejną rundę dla nas, rozmawiając z barmanem WYŁĄCZNIE po angielsku z przerysowanym, stereotypowym greckim akcentem. Nie możesz się zaśmiać." },
+  { "id": 2, "typ": "prawda", "kategoria": "niezreczne", "tresc": "Kto z obecnych tutaj najbardziej denerwuje Cię swoim zachowaniem podczas tego wyjazdu i dlaczego?" },
+  { "id": 3, "typ": "wyzwanie", "kategoria": "zagadaj", "tresc": "Podejdź do losowego gościa hotelowego (najlepiej obcokrajowca), spójrz głęboko w jego oczy i zapytaj po angielsku: 'Excuse me, is this the way to Atlantis?'. Wróć bez słowa wyjaśnienia." },
+  { "id": 4, "typ": "prawda", "kategoria": "18+", "tresc": "Czy uprawiałeś/aś kiedyś seks w miejscu publicznym na wakacjach (np. plaża, basen, hotelowy balkon)? Jeśli nie, z kim z tego pokoju najchętniej byś to zrobił/a?" },
+  { "id": 5, "typ": "wyzwanie", "kategoria": "zabawne", "tresc": "Przez najbliższe dwie rundy gierki na każde pytanie odpowiadaj, krzycząc na końcu głośne greckie 'OPA!' i klaszcząc w dłonie." },
+  { "id": 6, "typ": "nigdy_przenigdy", "kategoria": "niezreczne", "tresc": "Nigdy przenigdy nie wyniosłem/am potajemnie jedzenia z hotelowego bufetu All-Inclusive do pokoju na później." },
+  { "id": 7, "typ": "wyzwanie", "kategoria": "angielski", "tresc": "Zajmij strategiczne miejsce na leżaku lub przy stoliku, podejdź do losowej osoby i po angielsku wytłumacz jej z pełną powagą, że ten konkretny kawałek betonu należy do Twojej rodziny od pięciu pokoleń." },
+  { "id": 8, "typ": "kto_najprawdopodobniej", "kategoria": "18+", "tresc": "Kto najprawdopodobniej wróci z tej imprezy do pokoju bez majtek albo zgubi je w hotelowym basenie?" },
+  { "id": 9, "typ": "wyzwanie", "kategoria": "zagadaj", "tresc": "Złap kontakt wzrokowy z animatorem hotelowym lub kimś z obsługi i zacznij bardzo dynamicznie, ale bezgłośnie gestykulować, jakbyś próbował/a przekazać mu tajną wiadomość o porwaniu przez kosmitów." },
+  { "id": 10, "typ": "prawda", "kategoria": "zabawne", "tresc": "Jaka jest najbardziej obciachowa rzecz, którą zrobiłeś/aś pod wpływem alkoholu na jakimkolwiek wyjeździe zagranicznym?" },
+  { "id": 11, "typ": "wyzwanie", "kategoria": "angielski", "tresc": "Idź do recepcji lub baru i spróbuj po angielsku, używając wyłącznie metafor i bardzo skomplikowanych słów, zgłosić 'poważny problem': że lokalne greckie słońce świeci zbyt głośno." },
+  { "id": 12, "typ": "nigdy_przenigdy", "kategoria": "18+", "tresc": "Nigdy przenigdy nie podglądałem/am nikogo na plaży nudystów ani przy hotelowym basenie przez okulary przeciwsłoneczne." },
+  { "id": 13, "typ": "wyzwanie", "kategoria": "zabawne", "tresc": "Zrób najbardziej kiczowatą i uwodzicielską 'wakacyjną fotkę' na leżaku lub przy barze. Musisz wrzucić ją na swoje social media (albo wysłać do kogoś) bez żadnego kontekstu na minimum godzinę." },
+  { "id": 14, "typ": "kto_najprawdopodobniej", "kategoria": "niezreczne", "tresc": "Kto najprawdopodobniej dostanie jutro najgorszego kaca i spędzi pół dnia, narzekając na greckie klimatyzatory?" },
+  { "id": 15, "typ": "wyzwanie", "kategoria": "zagadaj", "tresc": "Podejdź do kogoś spoza naszej grupy, spytaj po angielsku, która jest godzina, a gdy odpowie, złap się za głowę i krzyknij: 'My God, the prophecy is true!', po czym uciekaj z powrotem do nas." }
+]
