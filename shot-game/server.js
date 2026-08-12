@@ -39,6 +39,7 @@ io.on('connection', (socket) => {
 
   socket.on('disconnect', () => {
     players = players.filter(p => p.id !== socket.id);
+    console.log(`Gracz ${socket.id} odłączył się. Aktualna lista graczy:`, players);
     io.emit('update_players', players);
   });
 });
