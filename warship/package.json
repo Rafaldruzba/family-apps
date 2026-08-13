@@ -1,0 +1,27 @@
+{
+  "name": "warship",
+  "version": "1.0.0",
+  "description": "Warship game | 2-player game",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "node server.js",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd client && npm run build",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "SHOT",
+    "GAME"
+  ],
+  "author": "rafal druzba",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.22.2",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
